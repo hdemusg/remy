@@ -1,0 +1,3 @@
+firebase_functions~=0.1.0
+openai==0.27.8
+metaphor-python==0.1.16

@@ -1,2 +1,2 @@
 # remy
-Using LLMs to get recipes for everyone!
+Using Neural Search and  to get recipes for everyone!
